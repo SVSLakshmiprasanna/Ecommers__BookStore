@@ -1,6 +1,6 @@
 # 📚 BookShelf – Full Stack MERN Book Store App
 
-![BookShelf – Full Stack MERN Project](/frontend/src/assets/github-cover.png)
+
 
 ---
 
